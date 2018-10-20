@@ -1,0 +1,11 @@
+{
+  "name": "safetycan",
+  "version": "1.0.0",
+  "description": "SpaceApps2018",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SafetyCan",
+  "license": "ISC"
+}
